@@ -18,7 +18,7 @@ Built an end-to-end data pipeline that ingests, processes, stores, and visualize
 - Scheduled execution with logging
 
 ## 📊 Dashboard Preview
-(Add screenshots here)
+<img width="952" height="447" alt="image" src="https://github.com/user-attachments/assets/fc10de7e-08c8-419a-8006-11c5eab99bcc" />
 
 ## 🚀 How to Run
 1. Clone repo
